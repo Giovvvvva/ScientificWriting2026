@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1790948463.91603 "/home/giovi/Repositories/Giovvvvva/ScientificWriting2026/ScientificWriting2026/paper/scientific_writing.tex" "scientific_writing.pdf" "scientific_writing" 1790948464.17315 0
+["pdflatex"] 1790950298.04076 "/home/giovi/Repositories/Giovvvvva/ScientificWriting2026/ScientificWriting2026/paper/scientific_writing.tex" "scientific_writing.pdf" "scientific_writing" 1790950298.30243 0
   "/etc/texmf/web2c/texmf.cnf" 1759321736.4692 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/giovi/Repositories/Giovvvvva/ScientificWriting2026/ScientificWriting2026/paper/scientific_writing.tex" 1790948463.5096 22165 49fbeced13f26140ce07ee20f26d110f ""
+  "/home/giovi/Repositories/Giovvvvva/ScientificWriting2026/ScientificWriting2026/paper/scientific_writing.tex" 1790950297.88542 21945 716d1cfd8b6dbfa2bf738f9127899b4f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -36,8 +36,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1759321752.01326 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1759321779 8213651 472a5a1750469d3c20a6606d488652a4 ""
-  "scientific_writing.aux" 1790948464.14762 1510 5e8e9c5ebd8f3cf0c728ccf52aea4549 "pdflatex"
-  "scientific_writing.tex" 1790948463.5096 22165 49fbeced13f26140ce07ee20f26d110f ""
+  "scientific_writing.aux" 1790950298.27943 1510 5e8e9c5ebd8f3cf0c728ccf52aea4549 "pdflatex"
+  "scientific_writing.tex" 1790950297.88542 21945 716d1cfd8b6dbfa2bf738f9127899b4f ""
   (generated)
   "scientific_writing.aux"
   "scientific_writing.log"
